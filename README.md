@@ -78,11 +78,9 @@ Enter YouTube video link as a command line input.
 
 ## Closing Remarks
 
-- Connect with me on <b> LinkedIn</b>: https://www.linkedin.com/in/sahib-nanda-44b2bb264
+- Connect with me on <b> LinkedIn</b>: https://www.linkedin.com/in/jatin-kumar-balchandani/
 
-- Check out my <b> Geeks For Geeks </b> Profile: https://auth.geeksforgeeks.org/user/sahibnanda/
-
-- Check out of my <b> LeetCode </b> Profile: https://leetcode.com/imsahibnanda/
+- Check out of my <b> LeetCode </b> Profile: https://leetcode.com/u/Jatin7777/
 
 
 
